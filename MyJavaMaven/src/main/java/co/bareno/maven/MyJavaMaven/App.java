@@ -15,4 +15,8 @@ public class App
     	return a+b;
     }
     
+    public double suma(double a, double b){
+    	return a+b;
+    }
+    
 }
